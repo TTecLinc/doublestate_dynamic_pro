@@ -1,0 +1,106 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: hk_v24 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOKUME~1\evogel\LOKALE~1\Temp\RSP179.tmp" with contents
+[
+/browser:"Release/" /compile_only /nologo /warn:nofileopt /module:"Release/" /object:"Release/" 
+"D:\Kopie (2) von hk_v24\Params.f90"
+"D:\Kopie (2) von hk_v24\paramsimsl.f90"
+"D:\Kopie (2) von hk_v24\welfare.f90"
+"D:\Kopie (2) von hk_v24\testsettings.f90"
+"D:\Kopie (2) von hk_v24\paramsalg.f90"
+"D:\Kopie (2) von hk_v24\solveolg.f90"
+"D:\Kopie (2) von hk_v24\saving.f90"
+"D:\Kopie (2) von hk_v24\paramshh.f90"
+"D:\Kopie (2) von hk_v24\alexutils.f90"
+"D:\Kopie (2) von hk_v24\olg.f90"
+"D:\Kopie (2) von hk_v24\main.f90"
+"D:\Kopie (2) von hk_v24\housegiven.f90"
+"D:\Kopie (2) von hk_v24\house.f90"
+"D:\Kopie (2) von hk_v24\guess.f90"
+"D:\Kopie (2) von hk_v24\fsinglehh.f90"
+"D:\Kopie (2) von hk_v24\demographics.f90"
+"D:\Kopie (2) von hk_v24\calibrpens.f90"
+"D:\Kopie (2) von hk_v24\calibrolg.f90"
+"D:\Kopie (2) von hk_v24\calibrhkcons.f90"
+"D:\Kopie (2) von hk_v24\alexfuncs.f90"
+"D:\Kopie (2) von hk_v24\broyden.f90"
+"D:\Kopie (2) von hk_v24\alg_qn.f90"
+"D:\Kopie (2) von hk_v24\alg_gsqn.f90"
+"D:\Kopie (2) von hk_v24\alg_gs.f90"
+"D:\Kopie (2) von hk_v24\aggrdec.f90"
+"D:\Kopie (2) von hk_v24\aggrchecks.f90"
+]
+Creating temporary file "C:\DOKUME~1\evogel\LOKALE~1\Temp\RSP17A.tmp" with contents
+[
+kernel32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/hk_v24.pdb" /machine:I386 /out:"Release/hk_v24.exe" 
+".\Release\aggrchecks.obj"
+".\Release\aggrdec.obj"
+".\Release\alexfuncs.obj"
+".\Release\alexutils.obj"
+".\Release\alg_gs.obj"
+".\Release\alg_gsqn.obj"
+".\Release\alg_qn.obj"
+".\Release\broyden.obj"
+".\Release\calibrhkcons.obj"
+".\Release\calibrolg.obj"
+".\Release\calibrpens.obj"
+".\Release\demographics.obj"
+".\Release\fsinglehh.obj"
+".\Release\guess.obj"
+".\Release\house.obj"
+".\Release\housegiven.obj"
+".\Release\main.obj"
+".\Release\olg.obj"
+".\Release\Params.obj"
+".\Release\paramsalg.obj"
+".\Release\paramshh.obj"
+".\Release\paramsimsl.obj"
+".\Release\saving.obj"
+".\Release\solveolg.obj"
+".\Release\testsettings.obj"
+".\Release\welfare.obj"
+]
+Creating command line "link.exe @C:\DOKUME~1\evogel\LOKALE~1\Temp\RSP17A.tmp"
+<h3>Output Window</h3>
+Compiling Fortran...
+D:\Kopie (2) von hk_v24\Params.f90
+D:\Kopie (2) von hk_v24\paramsimsl.f90
+D:\Kopie (2) von hk_v24\welfare.f90
+D:\Kopie (2) von hk_v24\testsettings.f90
+D:\Kopie (2) von hk_v24\paramsalg.f90
+D:\Kopie (2) von hk_v24\solveolg.f90
+D:\Kopie (2) von hk_v24\saving.f90
+D:\Kopie (2) von hk_v24\paramshh.f90
+D:\Kopie (2) von hk_v24\alexutils.f90
+D:\Kopie (2) von hk_v24\olg.f90
+D:\Kopie (2) von hk_v24\main.f90
+D:\Kopie (2) von hk_v24\housegiven.f90
+D:\Kopie (2) von hk_v24\house.f90
+D:\Kopie (2) von hk_v24\guess.f90
+D:\Kopie (2) von hk_v24\fsinglehh.f90
+D:\Kopie (2) von hk_v24\demographics.f90
+D:\Kopie (2) von hk_v24\calibrpens.f90
+D:\Kopie (2) von hk_v24\calibrolg.f90
+D:\Kopie (2) von hk_v24\calibrhkcons.f90
+D:\Kopie (2) von hk_v24\alexfuncs.f90
+D:\Kopie (2) von hk_v24\broyden.f90
+D:\Kopie (2) von hk_v24\alg_qn.f90
+D:\Kopie (2) von hk_v24\alg_gsqn.f90
+D:\Kopie (2) von hk_v24\alg_gs.f90
+D:\Kopie (2) von hk_v24\aggrdec.f90
+D:\Kopie (2) von hk_v24\aggrchecks.f90
+Linking...
+
+
+
+<h3>Results</h3>
+hk_v24.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
